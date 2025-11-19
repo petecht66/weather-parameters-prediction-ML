@@ -1,0 +1,5 @@
+pip install yfinance
+pip install matplotlib
+pip install keras
+pip install tensorflow
+pip install -U scikit-learn
